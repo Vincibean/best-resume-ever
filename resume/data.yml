@@ -2,67 +2,56 @@
 # Any fields left unchanged, please delete so your resume is fully yours!
 
 name:
-  first: John
+  first: Andrea
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I'm just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+  last: Bessi
+about: Scala Developer, Functional Programming aficionado, and Geek. After a Bachelor's thesis on Data Mining and a Master's thesis on Business Intelligence, I'm currently delving deeper into Functional Programming, Microservices and Reactive Architectures. My other academic interests include Applied Mathematics, Business Studies (especially Strategy and Game Theory) and Cybersecurity. I am confident that my enthusiasm and curiosity will combine with my strong determination and motivation, enabling me to succeed in the challenges that the future presents. 
+position: Scala Software Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1986
+  location: Milan
 
 # you may add more experiences by duplicating the template
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: DATABIZ s.r.l.
+  position: Scala Software Engineer
+  timeperiod: 11/2015 - Present
+  description: Consulting, design and development of microservices-based applications for a banks and Fintech companies. Certified Lightbend Trainer for Scala Language - Professional; Certified Lightbend Trainer for Scala Language - Expert; Certified Trainer for Lightbend Apache Spark for Scala - Professional.
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Sourcesense
+  position: Full Stack Developer
+  timeperiod: 9/2015 - 11/2015
+  description: Migration of CMS system for a leading Italian banking Group; design and implementation of new contents. 
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Lutech
+  position: Java Developer
+  timeperiod: 2/2014 - 8/2015
+  description: Development and testing of the Data Collection Interface for all the Reporting Entities of the European Union&#39;s energy market. 
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
+- degree: Master of Science 
+  timeperiod: 2010 - 2013
+  description: Economics Major, University of Milan - Bicocca, Milan, Italy.
 
 - degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+  timeperiod: 2006 - 2010
+  description: Law Major, University of Milan - Bicocca, Milan, Italy.
 
 # skill level goes from 0 to 100
 skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
+- name: Scala 
+  level: 90
+- name: Java
+  level: 85
+- name: Haskell
+  level: 50
+- name: Reactive Applications 
   level: 60
-- name: TypeScript
+- name: Linux 
   level: 80
-- name: ES.Next
-  level: 70
-- name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+knowledge: Also proficient in Cats, SBT, Specs2, ScalaCheck, Git, Apache Spark.
 
 projects:
 - name: best-resume-ever
@@ -71,28 +60,13 @@ projects:
   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
   url: https://github.com/salomonelli/best-resume-ever
 
-# optional, not all resume templates have hobbies included
-hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
-
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
-
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
-
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
-# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
+  email: andrebessi00@gmail.com 
+  phone: +39 3480805538 
+  street: via Gramsci 19 
+  city: Bollate (Milan)
+  website: https://vincibean.github.io/ 
+  github: Vincibean
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en
 `
