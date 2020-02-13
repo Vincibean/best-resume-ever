@@ -5,7 +5,7 @@ name:
   first: Andrea
   middle:
   last: Bessi
-about: Scala Developer, Functional Programming aficionado, and Geek. After a Bachelor's thesis on Data Mining and a Master's thesis on Business Intelligence, I'm currently delving deeper into Functional Programming, Microservices and Reactive Architectures. My other academic interests include Applied Mathematics, Business Studies (especially Strategy and Game Theory) and Cybersecurity. I am confident that my enthusiasm and curiosity will combine with my strong determination and motivation, enabling me to succeed in the challenges that the future presents. 
+about: Scala / Haskell developer and Functional Programming enthusiast with solid experience in distributed and event driven systems. I like tech, FOSS, functional and strongly typed programming languages, travelling, swimming, hiking, RPGs.
 position: Scala Software Developer
 
 birth:
@@ -15,9 +15,14 @@ birth:
 # you may add more experiences by duplicating the template
 
 experience:
+- company: OnTrack Retail Ltd 
+  position: Scala Software Engineer
+  timeperiod: 02/2019 - Present
+  description: design and development of microservices-based applications for the transport industry (web ticketing; delay repay)
+
 - company: DATABIZ s.r.l.
   position: Scala Software Engineer
-  timeperiod: 11/2015 - Present
+  timeperiod: 11/2015 - 02/2019
   description: Consulting, design and development of microservices-based applications for a banks and Fintech companies. Certified Lightbend Trainer for Scala Language - Professional; Certified Lightbend Trainer for Scala Language - Expert; Certified Trainer for Lightbend Apache Spark for Scala - Professional.
 
 - company: Sourcesense
@@ -42,11 +47,11 @@ education:
 # skill level goes from 0 to 100
 skills:
 - name: Scala 
-  level: 90
-- name: Java
-  level: 85
+  level: 95
 - name: Haskell
-  level: 50
+  level: 65
+- name: Java
+  level: 80
 - name: Reactive Applications 
   level: 60
 - name: Linux 
@@ -63,8 +68,8 @@ projects:
 contact:
   email: andrebessi00@gmail.com 
   phone: +39 3480805538 
-  street: via Gramsci 19 
-  city: Bollate (Milan)
+  street: Tyler Street
+  city: London
   website: https://vincibean.github.io/ 
   github: Vincibean
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
