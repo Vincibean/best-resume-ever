@@ -5,7 +5,7 @@ name:
   first: Andrea
   middle:
   last: Bessi
-about: Scala / Haskell developer and Functional Programming enthusiast with solid experience in distributed and event driven systems. I like tech, FOSS, functional and strongly typed programming languages, travelling, swimming, hiking, RPGs.
+about: Scala / Haskell developer and Functional Programming enthusiast with solid experience in distributed and event driven systems. Former Lightbend trainer and occasional conference / meetup speaker. I like tech, FOSS, functional and strongly typed programming languages, travelling, swimming, hiking, RPGs.
 position: Scala Software Developer
 
 birth:
@@ -33,7 +33,7 @@ experience:
 - company: Lutech
   position: Java Developer
   timeperiod: 2/2014 - 8/2015
-  description: Development and testing of the Data Collection Interface for all the Reporting Entities of the European Union&#39;s energy market. 
+  description: Development and testing of the Data Collection Interface for all the Reporting Entities of the European Union energy market. 
 
 education:
 - degree: Master of Science 
@@ -59,14 +59,65 @@ skills:
 knowledge: Also proficient in Cats, SBT, Specs2, ScalaCheck, Git, Apache Spark.
 
 projects:
-- name: best-resume-ever
-  platform: Vue
-  timeperiod: February 2016
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: PayPal Payout Check
+  platform: Haskell
+  description: Check your PayPal Payout. Fast!
+  url: https://github.com/Vincibean/PayPal-Payout-Check
+
+- name: spark-deep-learning
+  platform: Scala
+  description: Deep Learning on Apache Spark
+  url: https://github.com/Vincibean/spark-deep-learning
+
+- name: My First Yesod
+  platform: Haskell
+  description: Yesod server and solutions to the Yesod chapter of "Seven Web Frameworks in Seven Weeks"
+  url: https://github.com/Vincibean/my-first-yesod-project
+
+- name: slick-flyway-codegen-playground
+  platform: Scala
+  description: Playing around with Flyway, Slick and Slick-Codegen 
+  url: https://github.com/Vincibean/slick-flyway-codegen-playground
+
+- name: Real World Haskell
+  platform: Haskell
+  description: My solutions to the exercises contained in the book "Real World Haskell" 
+  url: https://github.com/Vincibean/real-world-haskell
+
+- name: 7-languages-in-7-weeks
+  platform: Haskell
+  description: My solutions to the exercises contained in the book "Seven Languages in Seven Weeks" 
+  url: https://github.com/Vincibean/7-languages-in-7-weeks
+
+- name: SparkJdbcHiveIntegration
+  platform: Scala
+  description: A simple example of JDBC and Hive integration in Spark 
+  url: https://github.com/Vincibean/SparkJdbcHiveIntegration
+
+- name: Khan Algorithms
+  platform: Haskell
+  description: Solutions to the exercises from Khan Academy's Algorithms course
+  url: https://github.com/Vincibean/khan-algorithms
+
+contributions:
+- name: hs-scrape
+  description: Haskell Web scraping and Automation Library
+  url: https://github.com/Vincibean/hs-scrape
+
+- name: enumeratum
+  description: A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations. 
+  url: https://github.com/Vincibean/enumeratum
+
+- name: alpakka
+  description: Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.  
+  url: https://github.com/Vincibean/alpakka
+
+- name: learn-you-a-haskell-exercises
+  description: Some exercises as a companion for the book Learn You a Haskell For Great Good!
+  url: https://github.com/Vincibean/learn-you-a-haskell-exercises-1
 
 contact:
-  email: andrebessi00@gmail.com 
+  email: sepensi@gmail.com 
   phone: +39 3480805538 
   street: Tyler Street
   city: London
